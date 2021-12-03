@@ -1,2 +1,2 @@
 # Descriptive Statistics
-descriptive
+descriptive analysis
