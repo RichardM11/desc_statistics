@@ -1,2 +1,2 @@
-# statistical_description
+# Descriptive Statistics
 descriptive
